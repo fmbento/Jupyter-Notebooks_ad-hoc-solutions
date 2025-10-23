@@ -5,3 +5,9 @@
   
 - [Extract Labels from HMD Filenames (for Universal Viewer)](TomHarper_HMD_Labels_from_Filenames.ipynb)
 (see it at [JN Viewer](https://nbviewer.jupyter.org/github/fmbento/Jupyter-Notebooks_ad-hoc-solutions/blob/main/TomHarper_HMD_Labels_from_Filenames.ipynb); run it on [Binder](https://mybinder.org/v2/gh/fmbento/Jupyter-Notebooks_ad-hoc-solutions/master?filepath=TomHarper_HMD_Labels_from_Filenames.ipynb) or on [Google Colab](https://colab.research.google.com/github/fmbento/Jupyter-Notebooks_ad-hoc-solutions/blob/master/TomHarper_HMD_Labels_from_Filenames.ipynb))
+
+
+[Google Colab: Datasets_faz_sample_de_10_50_100_500_ou_1000_registos.ipynb](https://colab.research.google.com/github/fmbento/Jupyter-Notebooks_ad-hoc-solutions/blob/main/Datasets_faz_sample_de_10_50_100_500_ou_1000_registos.ipynb)
+
+[Google Colab: Datasets_Sample_Maker_10_50_100_500_or_1K_records.ipynb](https://colab.research.google.com/github/fmbento/Jupyter-Notebooks_ad-hoc-solutions/blob/main/Datasets_Sample_Maker_10_50_100_500_or_1K_records.ipynb)
+
