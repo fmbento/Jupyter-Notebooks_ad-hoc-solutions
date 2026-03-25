@@ -15,7 +15,7 @@
 ----
 # Python CLI Scripts
 
-## reverse-proxy-iaedu-openai.py
+## [reverse-proxy-iaedu-openai](https://github.com/fmbento/Jupyter-Notebooks_ad-hoc-solutions/blob/main/reverse-proxy-iaedu-openai.py).py
 
 **IAedu.pt → OpenAI Proxy**
 
