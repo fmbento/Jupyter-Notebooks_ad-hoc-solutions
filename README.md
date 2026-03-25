@@ -65,21 +65,20 @@ _[http://SEU\_IP\_OU\_DOMINIO:8008/v1](http://SEU_IP_OU_DOMINIO:8008/v1)_
 
 _gpt-4o-mini_
 
-Nota: o proxy aceita tanto stream: true como stream: false.
+Nota: o proxy aceita tanto _stream: true_ como _stream: false_.
 
 ### Endpoints disponíveis
 
-POST /v1/chat/completions → Principal (streaming e non-streaming)
+_POST /v1/chat/completions_ → Principal (_streaming_ e _non-streaming_)
 
-GET /v1 → Health check
+_GET /v1_ → Health check
 
 ### Notas importantes
-·        Ocampo user\_info **deve** ser enviado como string JSON (o proxy tratadisso automaticamente).
+·        O campo user\_info **deve** ser enviado como string JSON (o proxy tratadisso automaticamente).
 
-·        Emmodo non-stream, o proxy força um JSON de saída quando necessário para evitarque os nós Condition Agent do Flowise quebrem.
+·        Em modo non-stream, o proxy força um JSON de saída quando necessário para evitarque os nós Condition Agent do Flowise quebrem.
 
-·        Recomenda-serodar o proxy em Docker ou com systemd/PM2 em ambiente de produção.
+·        Recomenda-se correr este proxy em Docker ou com systemd/PM2 em ambiente de produção.
 
-·        Recomenda-seusar em ambiente Docker ou com PM2 / systemd em produção
 
 Feito com ❤️ para integrar iaedu.pt com Flowise, n8n, etc..
