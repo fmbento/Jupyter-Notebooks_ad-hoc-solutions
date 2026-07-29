@@ -22,7 +22,7 @@
 
 👩‍🏫 **Autoria:** Bibliotecas UA: Serviço de Referência
 
-🔗 **Recursos adicionais:** https://www.ua.pt/bibliotecas
+🔗 **Recursos adicionais:** https://www.ua.pt/sbidm
 
 **Tags da Playlist:** pesquisa científica, informação científica, doutoramento, mestrado, bibliotecas UA, Universidade de Aveiro, CRAAP, IMRD, revisão por pares, peer review, bases de dados científicas, Google Scholar, Scopus, b-on, literatura cinzenta, revistas predatórias, operadores booleanos, estratégias de pesquisa, ferramentas IA, Elicit, Scispace, competências de informação, information literacy, academic research
 
