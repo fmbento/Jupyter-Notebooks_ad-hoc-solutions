@@ -365,7 +365,7 @@
 
 🔗 Playlist completa: [link]
 📧 Contacto Bibliotecas UA: sbidm-biblioteca@ua.pt
-🌐 [https://www.ua.pt/bibliotecas](https://www.ua.pt/sbidm/)
+🌐 [https://www.ua.pt/sbidm](https://www.ua.pt/sbidm/)
 
 **Tags:** conclusão, resumo, bibliotecas UA, recursos de apoio, formação, referência bibliotecas, Serviço de Referência, investigação científica, doutoramento, competências de informação, UA libraries, research support
 
