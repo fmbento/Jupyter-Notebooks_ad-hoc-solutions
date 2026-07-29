@@ -38,13 +38,21 @@
 📌 Neste episódio, exploramos os fundamentos da informação científica: o que a distingue, como é certificada e qual o seu ciclo de vida.
 
 **O que vais aprender:**
+
 00:00 — Introdução
+
 00:40 — O que é informação científica
+
 01:30 — Revisão por pares (Peer Review)
+
 02:30 — Conteúdos da sessão
+
 05:00 — Método científico: validade e reprodutibilidade
+
 06:20 — Ciência Aberta e Acesso Aberto
+
 08:00 — Conhecimento científico é acumulativo
+
 10:00 — Próximo episódio: Tipologias de Documentos
 
 🔗 Playlist completa: [link]
@@ -64,12 +72,19 @@
 
 **O que vais aprender:**
 00:00 — Introdução
+
 00:30 — Artigos científicos originais (IMRD)
+
 01:40 — Artigos de revisão (Review Articles)
+
 02:50 — Comunicações em conferências
+
 04:10 — Literatura cinzenta (Grey Literature)
+
 06:20 — Dicas de avaliação por tipologia
+
 08:00 — Capítulos de livros vs artigos
+
 10:00 — Próximo episódio: Fontes de Informação
 
 🔗 Playlist completa: [link]
@@ -88,14 +103,23 @@
 📌 As melhores fontes para pesquisa científica: desde o Google Scholar (gratuito e abrangente) até bases curatoriais como Scopus e Web of Science.
 
 **O que vais aprender:**
+
 00:00 — Introdução
+
 00:35 — b-on: Biblioteca do Conhecimento Online
+
 01:30 — RCAAP: Repositórios de Acesso Aberto
+
 02:40 — Google Scholar: pesquisa multidisciplinar
+
 04:20 — Scopus e Web of Science
+
 06:20 — Pesquisar sempre em inglês
+
 07:50 — Keywords dos artigos como base
+
 09:20 — Cuidados com Google Scholar
+
 10:00 — Próximo episódio: Método CRAAP
 
 🔗 Playlist completa: [link]
@@ -114,14 +138,23 @@
 📌 O método CRAAP é a ferramenta essencial para qualquer investigador avaliar criticamente as fontes de informação. Currency, Relevance, Authority, Accuracy e Purpose.
 
 **O que vais aprender:**
+
 00:00 — Introdução
+
 00:30 — Método CRAAP: visão geral
+
 01:20 — Currency (Atualidade)
+
 02:40 — Relevance (Relevância)
+
 04:00 — Authority (Autoridade)
+
 05:30 — Accuracy (Precisão)
+
 07:00 — Purpose (Propósito)
+
 08:40 — Aplicar CRAAP a todas as fontes
+
 10:00 — Próximo episódio: Revistas Predatórias
 
 🔗 Playlist completa: [link]
@@ -140,14 +173,23 @@
 📌 Publicações que cobram taxas sem oferecer revisão por pares genuína. Aprende a identificar revistas predatórias e protege a tua reputação académica.
 
 **O que vais aprender:**
+
 00:00 — Introdução
+
 00:30 — O que são revistas predatórias
+
 01:20 — Sinal de alerta: prazos suspeitos
+
 02:50 — Sinal de alerta: convites não solicitados
+
 04:20 — Sinal de alerta: taxas ocultas
+
 05:50 — Consequências de publicar em revistas predatórias
+
 07:30 — DOAJ e listas de Cabells
+
 09:00 — Think. Check. Submit.
+
 10:00 — Próximo episódio: Estratégias de Pesquisa
 
 🔗 Playlist completa: [link]
@@ -166,14 +208,23 @@
 📌 Domina as técnicas de pesquisa que todo o doutorando deve conhecer: operadores booleanos, aspas, truncatura e tesauros.
 
 **O que vais aprender:**
+
 00:00 — Introdução
+
 00:30 — Estratégia de pesquisa em 4 passos
+
 01:30 — Operadores booleanos: AND, OR, NOT
+
 02:50 — Aspas para pesquisa exata
+
 04:10 — Truncatura com asterisco (*)
+
 05:40 — Tesauros e termos controlados
+
 07:20 — Analisar referências de artigos-chave
+
 09:00 — Registar a estratégia de pesquisa
+
 10:00 — Próximo episódio: Leitura e Análise IMRD
 
 🔗 Playlist completa: [link]
@@ -192,14 +243,23 @@
 📌 A estrutura IMRD é a espinha dorsal dos artigos científicos. Aprende a lê-los de forma eficiente e a extrair o essencial.
 
 **O que vais aprender:**
+
 00:00 — Introdução
+
 00:30 — Estrutura IMRD: visão geral
+
 01:20 — Introduction: tema, objetivos e revisão teórica
+
 02:40 — Methods: participantes, instrumentos, procedimentos
+
 04:10 — Results: dados, tabelas e análise
+
 05:40 — Discussion: interpretação e limitações
+
 07:20 — Skimming: abstract, intro e conclusão
+
 09:00 — Tomar notas estruturadas
+
 10:00 — Próximo episódio: Ferramentas IA
 
 🔗 Playlist completa: [link]
@@ -218,14 +278,23 @@
 📌 As melhores ferramentas de IA desenhadas especificamente para investigação científica. Do Elicit ao Research Rabbit, domina o ecossistema de IA académica.
 
 **O que vais aprender:**
+
 00:00 — Introdução
+
 00:30 — Panorama de ferramentas IA
+
 01:30 — Elicit: assistente de revisão de literatura
+
 02:50 — Scispace: leitura e análise com IA
+
 04:20 — Consensus: respostas baseadas em evidências
+
 05:50 — Research Rabbit: mapeamento de literatura
+
 07:30 — Combinar ferramentas para cobertura máxima
+
 09:10 — Apenas conteúdo aberto é indexado
+
 10:00 — Próximo episódio: IA Generativa e Ética
 
 🔗 Playlist completa: [link]
@@ -244,14 +313,23 @@
 📌 A IA generativa é poderosa mas perigosa para uso académico. Aprende a identificar alucinações, verificar outputs e usar estas ferramentas com ética.
 
 **O que vais aprender:**
+
 00:00 — Introdução
+
 00:25 — IA generativa: oportunidades e riscos
+
 01:20 — Alucinações: referências falsas
+
 02:50 — Alucinações: dados inventados
+
 04:30 — Verificação manual é obrigatória
+
 06:10 — Privacidade: não submeter dados confidenciais
+
 07:40 — IA como copiloto, não como autor
+
 09:00 — Citar o uso de IA
+
 10:00 — Próximo episódio: Conclusão e Recursos
 
 🔗 Playlist completa: [link]
@@ -270,17 +348,24 @@
 📌 Episódio final. Recapitulamos os 10 pilares da pesquisa de informação científica e apresentamos os recursos de apoio das Bibliotecas UA.
 
 **O que vais aprender:**
+
 00:00 — Introdução
+
 00:25 — Resumo da série: 10 passos
+
 01:20 — CRAAP + Booleanos + IMRD
+
 03:00 — Bibliotecas UA: apoio personalizado
+
 04:40 — Recursos de apoio: guias e tutoriais
+
 06:20 — Formação contínua
-08:00 — Contacto: referencial@ua.pt
+
+08:00 — Contacto: sbidm-referencia@ua.pt
 
 🔗 Playlist completa: [link]
-📧 Contacto Bibliotecas UA: referencial@ua.pt
-🌐 https://www.ua.pt/bibliotecas
+📧 Contacto Bibliotecas UA: sbidm-biblioteca@ua.pt
+🌐 [https://www.ua.pt/bibliotecas](https://www.ua.pt/sbidm/)
 
 **Tags:** conclusão, resumo, bibliotecas UA, recursos de apoio, formação, referência bibliotecas, Serviço de Referência, investigação científica, doutoramento, competências de informação, UA libraries, research support
 
