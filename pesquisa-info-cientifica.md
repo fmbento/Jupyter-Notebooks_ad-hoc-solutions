@@ -1,4 +1,4 @@
-# YouTube Metadata — Pesquisa de Informação Científica (10 Episódios)
+# YouTube Metadata: Pesquisa de Informação Científica (10 Episódios)
 
 ## Playlist
 
@@ -20,7 +20,7 @@
 
 🎬 **10 episódios** · ~10 min cada · Legendas disponíveis
 
-👩‍🏫 **Autoria:** Bibliotecas UA — Serviço de Referência
+👩‍🏫 **Autoria:** Bibliotecas UA: Serviço de Referência
 
 🔗 **Recursos adicionais:** https://www.ua.pt/bibliotecas
 
@@ -30,7 +30,7 @@
 
 ---
 
-## Episódio 1 — Compreender a Informação Científica
+## Episódio 1: Compreender a Informação Científica
 
 **Título:** 🔬 O Que é Informação Científica? Peer Review e Ciclo da Ciência (Ep. 1/10)
 
@@ -39,21 +39,21 @@
 
 **O que vais aprender:**
 
-00:00 — Introdução
+00:00: Introdução
 
-00:40 — O que é informação científica
+00:40: O que é informação científica
 
-01:30 — Revisão por pares (Peer Review)
+01:30: Revisão por pares (Peer Review)
 
-02:30 — Conteúdos da sessão
+02:30: Conteúdos da sessão
 
-05:00 — Método científico: validade e reprodutibilidade
+05:00: Método científico: validade e reprodutibilidade
 
-06:20 — Ciência Aberta e Acesso Aberto
+06:20: Ciência Aberta e Acesso Aberto
 
-08:00 — Conhecimento científico é acumulativo
+08:00: Conhecimento científico é acumulativo
 
-10:00 — Próximo episódio: Tipologias de Documentos
+10:00: Próximo episódio: Tipologias de Documentos
 
 🔗 Playlist completa: [link]
 
@@ -63,7 +63,7 @@
 
 ---
 
-## Episódio 2 — Tipologias de Documentos Científicos
+## Episódio 2: Tipologias de Documentos Científicos
 
 **Título:** 📄 Artigos, Revisões e Literatura Cinzenta: Tipos de Documentos (Ep. 2/10)
 
@@ -71,21 +71,21 @@
 📌 Cada tipo de documento científico tem o seu propósito e nível de fiabilidade. Neste episódio, distinguimos artigos originais, revisões, comunicações e literatura cinzenta.
 
 **O que vais aprender:**
-00:00 — Introdução
+00:00: Introdução
 
-00:30 — Artigos científicos originais (IMRD)
+00:30: Artigos científicos originais (IMRD)
 
-01:40 — Artigos de revisão (Review Articles)
+01:40: Artigos de revisão (Review Articles)
 
-02:50 — Comunicações em conferências
+02:50: Comunicações em conferências
 
-04:10 — Literatura cinzenta (Grey Literature)
+04:10: Literatura cinzenta (Grey Literature)
 
-06:20 — Dicas de avaliação por tipologia
+06:20: Dicas de avaliação por tipologia
 
-08:00 — Capítulos de livros vs artigos
+08:00: Capítulos de livros vs artigos
 
-10:00 — Próximo episódio: Fontes de Informação
+10:00: Próximo episódio: Fontes de Informação
 
 🔗 Playlist completa: [link]
 
@@ -95,7 +95,7 @@
 
 ---
 
-## Episódio 3 — Fontes de Informação Científica
+## Episódio 3: Fontes de Informação Científica
 
 **Título:** 🔍 b-on, Scopus, Google Scholar: Onde Pesquisar Ciência (Ep. 3/10)
 
@@ -104,23 +104,23 @@
 
 **O que vais aprender:**
 
-00:00 — Introdução
+00:00: Introdução
 
-00:35 — b-on: Biblioteca do Conhecimento Online
+00:35: b-on: Biblioteca do Conhecimento Online
 
-01:30 — RCAAP: Repositórios de Acesso Aberto
+01:30: RCAAP: Repositórios de Acesso Aberto
 
-02:40 — Google Scholar: pesquisa multidisciplinar
+02:40: Google Scholar: pesquisa multidisciplinar
 
-04:20 — Scopus e Web of Science
+04:20: Scopus e Web of Science
 
-06:20 — Pesquisar sempre em inglês
+06:20: Pesquisar sempre em inglês
 
-07:50 — Keywords dos artigos como base
+07:50: Keywords dos artigos como base
 
-09:20 — Cuidados com Google Scholar
+09:20: Cuidados com Google Scholar
 
-10:00 — Próximo episódio: Método CRAAP
+10:00: Próximo episódio: Método CRAAP
 
 🔗 Playlist completa: [link]
 
@@ -130,7 +130,7 @@
 
 ---
 
-## Episódio 4 — Método CRAAP: Avaliação da Informação
+## Episódio 4: Método CRAAP: Avaliação da Informação
 
 **Título:** ✅ Método CRAAP: Como Avaliar Fontes Científicas (Ep. 4/10)
 
@@ -139,23 +139,23 @@
 
 **O que vais aprender:**
 
-00:00 — Introdução
+00:00: Introdução
 
-00:30 — Método CRAAP: visão geral
+00:30: Método CRAAP: visão geral
 
-01:20 — Currency (Atualidade)
+01:20: Currency (Atualidade)
 
-02:40 — Relevance (Relevância)
+02:40: Relevance (Relevância)
 
-04:00 — Authority (Autoridade)
+04:00: Authority (Autoridade)
 
-05:30 — Accuracy (Precisão)
+05:30: Accuracy (Precisão)
 
-07:00 — Purpose (Propósito)
+07:00: Purpose (Propósito)
 
-08:40 — Aplicar CRAAP a todas as fontes
+08:40: Aplicar CRAAP a todas as fontes
 
-10:00 — Próximo episódio: Revistas Predatórias
+10:00: Próximo episódio: Revistas Predatórias
 
 🔗 Playlist completa: [link]
 
@@ -165,7 +165,7 @@
 
 ---
 
-## Episódio 5 — Revistas Predatórias e Integridade
+## Episódio 5: Revistas Predatórias e Integridade
 
 **Título:** 🚩 Revistas Predatórias: Sinais de Alerta e Como Evitá-las (Ep. 5/10)
 
@@ -174,23 +174,23 @@
 
 **O que vais aprender:**
 
-00:00 — Introdução
+00:00: Introdução
 
-00:30 — O que são revistas predatórias
+00:30: O que são revistas predatórias
 
-01:20 — Sinal de alerta: prazos suspeitos
+01:20: Sinal de alerta: prazos suspeitos
 
-02:50 — Sinal de alerta: convites não solicitados
+02:50: Sinal de alerta: convites não solicitados
 
-04:20 — Sinal de alerta: taxas ocultas
+04:20: Sinal de alerta: taxas ocultas
 
-05:50 — Consequências de publicar em revistas predatórias
+05:50: Consequências de publicar em revistas predatórias
 
-07:30 — DOAJ e listas de Cabells
+07:30: DOAJ e listas de Cabells
 
-09:00 — Think. Check. Submit.
+09:00: Think. Check. Submit.
 
-10:00 — Próximo episódio: Estratégias de Pesquisa
+10:00: Próximo episódio: Estratégias de Pesquisa
 
 🔗 Playlist completa: [link]
 
@@ -200,7 +200,7 @@
 
 ---
 
-## Episódio 6 — Estratégias de Pesquisa Científica
+## Episódio 6: Estratégias de Pesquisa Científica
 
 **Título:** 🎯 Operadores Booleanos e Keywords: Estratégias de Pesquisa (Ep. 6/10)
 
@@ -209,23 +209,23 @@
 
 **O que vais aprender:**
 
-00:00 — Introdução
+00:00: Introdução
 
-00:30 — Estratégia de pesquisa em 4 passos
+00:30: Estratégia de pesquisa em 4 passos
 
-01:30 — Operadores booleanos: AND, OR, NOT
+01:30: Operadores booleanos: AND, OR, NOT
 
-02:50 — Aspas para pesquisa exata
+02:50: Aspas para pesquisa exata
 
-04:10 — Truncatura com asterisco (*)
+04:10: Truncatura com asterisco (*)
 
-05:40 — Tesauros e termos controlados
+05:40: Tesauros e termos controlados
 
-07:20 — Analisar referências de artigos-chave
+07:20: Analisar referências de artigos-chave
 
-09:00 — Registar a estratégia de pesquisa
+09:00: Registar a estratégia de pesquisa
 
-10:00 — Próximo episódio: Leitura e Análise IMRD
+10:00: Próximo episódio: Leitura e Análise IMRD
 
 🔗 Playlist completa: [link]
 
@@ -235,7 +235,7 @@
 
 ---
 
-## Episódio 7 — Leitura e Análise de Artigos (IMRD)
+## Episódio 7: Leitura e Análise de Artigos (IMRD)
 
 **Título:** 📖 Método IMRD e Skimming: Como Ler Artigos Científicos (Ep. 7/10)
 
@@ -244,23 +244,23 @@
 
 **O que vais aprender:**
 
-00:00 — Introdução
+00:00: Introdução
 
-00:30 — Estrutura IMRD: visão geral
+00:30: Estrutura IMRD: visão geral
 
-01:20 — Introduction: tema, objetivos e revisão teórica
+01:20: Introduction: tema, objetivos e revisão teórica
 
-02:40 — Methods: participantes, instrumentos, procedimentos
+02:40: Methods: participantes, instrumentos, procedimentos
 
-04:10 — Results: dados, tabelas e análise
+04:10: Results: dados, tabelas e análise
 
-05:40 — Discussion: interpretação e limitações
+05:40: Discussion: interpretação e limitações
 
-07:20 — Skimming: abstract, intro e conclusão
+07:20: Skimming: abstract, intro e conclusão
 
-09:00 — Tomar notas estruturadas
+09:00: Tomar notas estruturadas
 
-10:00 — Próximo episódio: Ferramentas IA
+10:00: Próximo episódio: Ferramentas IA
 
 🔗 Playlist completa: [link]
 
@@ -270,7 +270,7 @@
 
 ---
 
-## Episódio 8 — Ferramentas IA para Investigação
+## Episódio 8: Ferramentas IA para Investigação
 
 **Título:** 🤖 Elicit, Scispace, Consensus: IA para Revisão de Literatura (Ep. 8/10)
 
@@ -279,23 +279,23 @@
 
 **O que vais aprender:**
 
-00:00 — Introdução
+00:00: Introdução
 
-00:30 — Panorama de ferramentas IA
+00:30: Panorama de ferramentas IA
 
-01:30 — Elicit: assistente de revisão de literatura
+01:30: Elicit: assistente de revisão de literatura
 
-02:50 — Scispace: leitura e análise com IA
+02:50: Scispace: leitura e análise com IA
 
-04:20 — Consensus: respostas baseadas em evidências
+04:20: Consensus: respostas baseadas em evidências
 
-05:50 — Research Rabbit: mapeamento de literatura
+05:50: Research Rabbit: mapeamento de literatura
 
-07:30 — Combinar ferramentas para cobertura máxima
+07:30: Combinar ferramentas para cobertura máxima
 
-09:10 — Apenas conteúdo aberto é indexado
+09:10: Apenas conteúdo aberto é indexado
 
-10:00 — Próximo episódio: IA Generativa e Ética
+10:00: Próximo episódio: IA Generativa e Ética
 
 🔗 Playlist completa: [link]
 
@@ -305,7 +305,7 @@
 
 ---
 
-## Episódio 9 — IA Generativa: Ética e Validação
+## Episódio 9: IA Generativa: Ética e Validação
 
 **Título:** ⚠️ ChatGPT e Alucinações: IA Generativa na Investigação (Ep. 9/10)
 
@@ -314,23 +314,23 @@
 
 **O que vais aprender:**
 
-00:00 — Introdução
+00:00: Introdução
 
-00:25 — IA generativa: oportunidades e riscos
+00:25: IA generativa: oportunidades e riscos
 
-01:20 — Alucinações: referências falsas
+01:20: Alucinações: referências falsas
 
-02:50 — Alucinações: dados inventados
+02:50: Alucinações: dados inventados
 
-04:30 — Verificação manual é obrigatória
+04:30: Verificação manual é obrigatória
 
-06:10 — Privacidade: não submeter dados confidenciais
+06:10: Privacidade: não submeter dados confidenciais
 
-07:40 — IA como copiloto, não como autor
+07:40: IA como copiloto, não como autor
 
-09:00 — Citar o uso de IA
+09:00: Citar o uso de IA
 
-10:00 — Próximo episódio: Conclusão e Recursos
+10:00: Próximo episódio: Conclusão e Recursos
 
 🔗 Playlist completa: [link]
 
@@ -340,7 +340,7 @@
 
 ---
 
-## Episódio 10 — Conclusão e Recursos de Apoio
+## Episódio 10: Conclusão e Recursos de Apoio
 
 **Título:** 🎓 Conclusão: 10 Passos para a Investigação Científica (Ep. 10/10)
 
@@ -349,19 +349,19 @@
 
 **O que vais aprender:**
 
-00:00 — Introdução
+00:00: Introdução
 
-00:25 — Resumo da série: 10 passos
+00:25: Resumo da série: 10 passos
 
-01:20 — CRAAP + Booleanos + IMRD
+01:20: CRAAP + Booleanos + IMRD
 
-03:00 — Bibliotecas UA: apoio personalizado
+03:00: Bibliotecas UA: apoio personalizado
 
-04:40 — Recursos de apoio: guias e tutoriais
+04:40: Recursos de apoio: guias e tutoriais
 
-06:20 — Formação contínua
+06:20: Formação contínua
 
-08:00 — Contacto: sbidm-referencia@ua.pt
+08:00: Contacto: sbidm-referencia@ua.pt
 
 🔗 Playlist completa: [link]
 📧 Contacto Bibliotecas UA: sbidm-biblioteca@ua.pt
